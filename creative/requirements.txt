@@ -1,0 +1,6 @@
+spacy
+cython
+numpy
+keras
+scipy
+implicit
